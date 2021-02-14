@@ -1,6 +1,6 @@
 This is a supplementary code (in Python 3.8) for the paper：
 
-Xiaokai Chang, "A golden ratio primal-dual algorithm for structured convex optimization".
+Xiaokai Chang, Junfeng Yang "A golden ratio primal-dual algorithm for structured convex optimization".
 
 
 The manuscript can be downloaded from  http://www.optimization-online.org/DB_HTML/2020/04/7730.html
